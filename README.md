@@ -1813,6 +1813,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) for a comprehensive lis
 * [Golang Belo Horizonte - Brazil](https://www.meetup.com/go-belo-horizonte/)
 * [Golang Boston](https://www.meetup.com/bostongo/)
 * [Golang Bulgaria](https://www.meetup.com/Golang-Bulgaria/)
+* [Golang Copenhagen](https://www.meetup.com/Go-Cph/)
 * [Golang DC, Arlington, VA](https://www.meetup.com/Golang-DC/)
 * [Golang Dorset, UK](https://www.meetup.com/golang-dorset/)
 * [Golang Israel](https://www.meetup.com/Go-Israel/)
@@ -1884,3 +1885,4 @@ See [go-hardware](https://github.com/rakyll/go-hardware) for a comprehensive lis
 * [Learn Go with TDD](https://github.com/quii/learn-go-with-tests) - Learn Go with test-driven development.
 * [Working with Go](https://github.com/mkaz/working-with-go) - Intro to go for experienced programmers.
 * [Your basic Go](http://yourbasic.org/golang) - Huge collection of tutorials and how to's
+
